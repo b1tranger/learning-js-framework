@@ -8,7 +8,7 @@ Learning Javascirpt web+cli and moving to its frameworks
 
 
 # # references
-- https://github.com/chatok-jnr/BiteNow &larr; https://bite-now.netlify.app
+- https://github.com/chatok-jnr/BiteNow &larr; https://bite-now.netlify.app (using Netlify+Render for hosting)
 
 
 CodeForces code submisison: <br>
