@@ -1,3 +1,10 @@
+- [1-popular-javascript-frameworks-in-2026](#1-popular-javascript-frameworks-in-2026)
+- [2-the-modern-standard-readline-promises](#1-the-modern-standard-readline-promises)
+- [3-raw-javascript-vs-runtimes](#1-raw-javascript-vs-runtimes)
+- [4-the-environment-vs-the-language](#1-the-environment-vs-the-language)
+- [the-c-to-typescriptjavascript-cheat-sheet](#the-c-to-typescriptjavascript-cheat-sheet)
+---
+
 > imagine you are a proficient JavaScript developer, with the knowledge and experience in all of > > its frameworks like React, Node, Express etc. Now do the following:
 > 1. List all the frameworks of JavaScript that are popular right now
 > 2. From the list above, organize the frameworks in the order I can learn them. For example, I will need to learn JavaScript first and then React or Node in order. Generate the sequence until the end of the list.
