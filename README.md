@@ -3,7 +3,7 @@
 Learning Javascirpt web+cli and moving to its frameworks
 
 # # resources
-- https://roadmap.sh/javascript
+- [AI roadmap](https://github.com/b1tranger/learning-js-framework/blob/main/JavaScript/Day%201/js-roadmap.md) &rarr; https://roadmap.sh/javascript
 
 
 CodeForces code submisison: <br>
