@@ -2,7 +2,7 @@
 - [2-the-modern-standard-readline-promises](#1-the-modern-standard-readline-promises)
 - [3-raw-javascript-vs-runtimes](#1-raw-javascript-vs-runtimes)
 - [4-the-environment-vs-the-language](#1-the-environment-vs-the-language)
-- [the-c-to-typescriptjavascript-cheat-sheet](#the-c-to-typescriptjavascript-cheat-sheet)
+- [5-the-c-to-typescriptjavascript-cheat-sheet](#the-c-to-typescriptjavascript-cheat-sheet)
 ---
 
 > imagine you are a proficient JavaScript developer, with the knowledge and experience in all of > > its frameworks like React, Node, Express etc. Now do the following:
