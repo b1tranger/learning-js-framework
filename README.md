@@ -7,6 +7,7 @@
 - look into Shopify/Liquid which has market demand and close resemblance with JS
 
 ### # resources
+- [node.js.resources.md](https://github.com/b1tranger/learning-js-framework/blob/main/Node.JS/node.js.resources.md)
 - [AI roadmap](https://github.com/b1tranger/learning-js-framework/blob/main/JavaScript/Day%201/js-roadmap.md) &rarr; https://roadmap.sh/javascript
 - https://developer.mozilla.org/
 - [Javascript_Template_for_CP](https://github.com/BroLetsCodeIt/Javascript_Template_for_CP) &larr; [[ Video ]](https://www.youtube.com/watch?v=DUWTv8J0shM)
