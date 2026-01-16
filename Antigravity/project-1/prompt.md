@@ -1,0 +1,5 @@
+inside project-1 folder, create a full stack demo website with react, node and mongodb. this will be a learning project, so do not use any advanced concepts of the mentioned tech stack.
+
+Make a "productivity management tool" where each productive activity is "gamified". Use a gamified green and blue theme (you can also add gradient in some places) as color palette. There should be a dashboard at the hero section to visually summarized my current progress. Add "quote of the day" right on top of the dashboard.
+
+Add all fundamental and basic frontend elements for the page sections with navigation sidebar to browser through them.  And use some basic backend logic, paired with their corresponding frontend elements. Designate each section clearly, highlighting the web development concepts that were used. So it is like a documentation within the website.
