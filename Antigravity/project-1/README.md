@@ -13,6 +13,11 @@
 - [Javascript_Template_for_CP](https://github.com/BroLetsCodeIt/Javascript_Template_for_CP) &larr; [[ Video ]](https://www.youtube.com/watch?v=DUWTv8J0shM)
 - Shopify/Liquid [liquid](https://shopify.dev/docs/api/liquid) &larr; [api](https://shopify.dev/docs/api) &larr; https://shopify.dev/docs/ [ see [wordpress](https://github.com/b1tranger/learning-php-laravel) ]
 
+### # gitignore
+- folder "node_modules": This is considered a best practice in the Node.js ecosystem. 
+  - The purpose of the package.json and package-lock.json files is to list all your project's dependencies and their exact versions. 
+  - Anyone who clones your repository can simply run npm install (or npm ci in a CI/CD environment) to recreate the exact same node_modules structure.
+  - Ignoring the folder results in faster git clone, git fetch, and git commit operations. 
 
 ### # references
 - https://github.com/chatok-jnr/BiteNow &larr; https://bite-now.netlify.app (using Netlify+Render for hosting)
