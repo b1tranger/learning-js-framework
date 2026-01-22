@@ -6,3 +6,4 @@
 - frontend: React
 - backend: Node
 - app: Element
+- game: Phaser, Kaboom
