@@ -2,6 +2,11 @@
 
 ### # purpose
 
+### # resources
+- https://roadmap.sh/javascript
+- https://github.com/Asabeneh/30-Days-Of-JavaScript
+- https://github.com/Asabeneh/30-Days-Of-React
+
 ### # js frameworks
 - frontend: React
 - backend: Node
