@@ -7,6 +7,9 @@
 - https://github.com/Asabeneh/30-Days-Of-JavaScript
 - https://github.com/Asabeneh/30-Days-Of-React
 
+### # references
+- https://github.com/vercel/next.js/tree/canary/examples/
+
 ### # js frameworks
 - frontend: React
 - backend: Node
